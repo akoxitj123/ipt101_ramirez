@@ -5,5 +5,5 @@ Theodan John Ramirez BSIT - 2
 - [@TJRAMIREZ](https://github.com/akoxitj123)
 
 ## Sample Code
-`printf( 'Hello World');`
+`printf( 'Hello World'); `
 
