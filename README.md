@@ -1,8 +1,8 @@
-#RAMIREZ's PROJECT
+# RAMIREZ's PROJECT
 Theodan John Ramirez BSIT - 2
 
-##Authors
-- [TJRAMIREZ](https://github.com/akoxitj123)
+## Authors
+- [@TJRAMIREZ](https://github.com/akoxitj123)
 
-##Sample Code
+## Sample Code
 `printf( 'Hello World');`
