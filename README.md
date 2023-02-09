@@ -11,3 +11,5 @@ Theodan John Ramirez BSIT - 2
 - Step 1:Download the zip file or use git clone
 
 Change 1
+
+Change 2
